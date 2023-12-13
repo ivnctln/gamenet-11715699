@@ -223,6 +223,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   camera: {fileID: 0}
+  playerUiPrefab: {fileID: 0}
+  playerNameText: {fileID: 0}
 --- !u!114 &-5780874052303947689
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -235,8 +237,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8bd68950144b66c4ebd06218013ac1ca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timerText1: {fileID: 0}
-  timerText2: {fileID: 0}
+  timerText: {fileID: 0}
   timeToStartRace: 5
 --- !u!114 &-5182563466261950418
 MonoBehaviour:
